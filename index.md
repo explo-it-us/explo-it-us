@@ -82,15 +82,15 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">CONNECT</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">EMPLOYEES</span></a>
+                        <a class="dropdown-item" href="#"><span class="item-text">EMPLOYEES</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="terms-conditions.html"><span class="item-text">CUSTOMERS</span></a>
+                        <a class="dropdown-item" href="#"><span class="item-text">CUSTOMERS</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">PARTNERS</span></a>
+                        <a class="dropdown-item" href="#"><span class="item-text">PARTNERS</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">VENDORS</span></a>
+                        <a class="dropdown-item" href="#"><span class="item-text">VENDORS</span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">CAREERS</span></a>
+                        <a class="dropdown-item" href="careers.html"><span class="item-text">CAREERS</span></a>
                     </div>
                 </li>
                 <!-- end of dropdown menu -->
@@ -145,7 +145,7 @@
                     <div class="text-container">
                         <div class="section-title"><!--INTRO--></div>
                         <h2>Your Success is our Passion</h2>
-                        <p>We understand the critical business requirements and the challenges of our Customes. Explo-IT Inc. is specalized in identifying the Business Training and Business Implementation requirements through its consultation services and offer The Best Business Growth Services.</p>
+                        <p>We understand the critical business requirements and the challenges of our Customers. Explo-IT Inc. is specalized in identifying the Business Training and Business Implementation requirements through its consultation services and offer The Best Business Growth Services.</p>
                         <p class="testimonial-text">"Our mission here at Explo-IT Inc. is to get you through the tough moments relying on our team's expertise in growing companies through its innovative services."</p>
                         <div class="testimonial-author">Shravani - CEO</div>
                     </div> <!-- end of text-container -->
