@@ -147,7 +147,7 @@
                         <h2>Your Success is our Passion</h2>
                         <p>We understand the critical business requirements and the challenges of our Customers. Explo-IT Inc. is specalized in identifying the Business Training and Business Implementation requirements through its consultation services and offer The Best Business Growth Services.</p>
                         <p class="testimonial-text">"Our mission here at Explo-IT Inc. is to get you through the tough moments relying on our team's expertise in growing companies through its innovative services."</p>
-                        <div class="testimonial-author">Shravani - CEO</div>
+                        <div class="testimonial-author">CEO</div>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-7">
